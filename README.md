@@ -8,6 +8,9 @@ ject. We’ve built a deep learning model that fuses these 3 modalities, assigni
 gives an output.
 
 Files:
-Dataset.ipynb: The code snipets used to obtain from the DAIC server, unzip them and arrange them in a manner we saw fit for easy implementation.
-MCA_Audio.ipynb: The code snipets used to run the SVM and RF models on the audio attributes.
-MCA_Video.ipynb: The code snipets used to run the SVM and RF models on the video attributes.
+* Dataset.ipynb: The code snipets used to obtain from the DAIC server, unzip them and arrange them in a manner we saw fit for easy implementation.
+* MCA_Audio.ipynb: The code snipets used to run the SVM and RF models on the audio modality.
+* MCA_Video.ipynb: The code snipets used to run the SVM and RF models on the video modality.
+* MCA_Text.ipynb: The code snipets used to run the SVM and RF models on the text modality.
+* Combine.ipynb: The code snipets uused to run SVM and RF models on all 3 modalities with late fusion.
+* Rf_prune.ipynb: The code snipets used to prune the RF obtained from running RF on the late fusion of 3 modalities.
