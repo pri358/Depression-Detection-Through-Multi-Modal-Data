@@ -8,3 +8,6 @@ ject. We’ve built a deep learning model that fuses these 3 modalities, assigni
 gives an output.
 
 Files:
+Dataset.ipynb: The code snipets used to obtain from the DAIC server, unzip them and arrange them in a manner we saw fit for easy implementation.
+MCA_Audio.ipynb: The code snipets used to run the SVM and RF models on the audio attributes.
+MCA_Video.ipynb: The code snipets used to run the SVM and RF models on the video attributes.
