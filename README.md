@@ -14,3 +14,5 @@ Files:
 * MCA_Text.ipynb: The code snipets used to run the SVM and RF models on the text modality.
 * Combine.ipynb: The code snipets uused to run SVM and RF models on all 3 modalities with late fusion.
 * Rf_prune.ipynb: The code snipets used to prune the RF obtained from running RF on the late fusion of 3 modalities.
+* CNN_MCA_Video.ipynm: The code snipet used to run CNN on the video features. 
+* CNN_Audio.ipynb: The code snipets used to run CNN on the audio features. 
