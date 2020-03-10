@@ -16,3 +16,4 @@ Files:
 * Rf_prune.ipynb: The code snipets used to prune the RF obtained from running RF on the late fusion of 3 modalities.
 * CNN_MCA_Video.ipynm: The code snipet used to run CNN on the video features. 
 * CNN_Audio.ipynb: The code snipets used to run CNN on the audio features. 
+* MCA_CNN_Text.ipynb: The code snipets used to run CNN on the text features. 
