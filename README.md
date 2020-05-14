@@ -19,7 +19,7 @@ Please make a copy of the drive folder (https://drive.google.com/drive/u/1/folde
 * CNN_Audio.ipynb: The code snipet used to run CNN on the audio features. 
 * CNN_Text.ipynb: The code snipet used to run CNN on the text features. 
 * CNN_Video.ipynb: The code snipet used to run CNN on the video features. 
-* LSTM_Without_Gating_Sentence_Level.ipynb: Implementation of LSTM on all 3 modalities without gating, at the sentence level. 
-* LSTM_With_Gating_Sentence_Level.ipynb: Implementation of LSTM on all 3 modalities with gating, at the sentence level. 
-* LSTM_WITH_GATING_WordLevel.ipynb: Implementation of LSTM on all 3 modalities wit gating, at the word level. 
+* LSTM_Without_Gating_Sentence_Level.ipynb: Implementation of LSTM on all 3 modalities combined without gating, at the sentence level. 
+* LSTM_With_Gating_Sentence_Level.ipynb: Implementation of LSTM on all 3 modalities combined with gating, at the sentence level. 
+* LSTM_WITH_GATING_WordLevel.ipynb: Implementation of LSTM on all 3 modalities combined with gating, at the word level. 
 * BiLSTM_WordLevel.ipynb: Implementation of BiLSTM on all 3 modalities. 
