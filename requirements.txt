@@ -1,4 +1,3 @@
-
 nltk
 numpy
 pandas
@@ -9,3 +8,4 @@ keras
 smart_open
 sklearn
 matplotlib
+tensorflow 
