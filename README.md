@@ -7,7 +7,7 @@ the patient. The output is divided into a binary yes/no denoting whether the pat
 gives an output.
 
 # Using the files:
-Please make a copy of the drive folder (https://drive.google.com/drive/u/1/folders/1VhRO2phIYBkFjvp2EZdnUE1vTx4ILSal, the folder has been shared with the TAs) to your main my-drive folder. The files on this github repository should work if the dataset folder is copied in the correct location. 
+Please make a copy of the drive folder (https://drive.google.com/drive/u/1/folders/1VhRO2phIYBkFjvp2EZdnUE1vTx4ILSal, the folder has been shared with the TAs) to your main my-drive folder. The files on this github repository should work if the dataset folder is copied in the correct location. Please runt the files on *colab* for easiest usage. The main file has not been created as our work is segmented, and is easier to read as seperate files. 
 
 # Files:
 * Dataset.ipynb: : The code snipets used to obtain from the DAIC server, unzip them and arrange them in a manner we saw fit for easy implementation.
