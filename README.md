@@ -15,7 +15,7 @@ Please make a copy of the drive folder (https://drive.google.com/drive/u/1/folde
 * SVM&RF_Video.ipynb: The code snipets used to run the SVM and RF models on the video modality.
 * SVM&RF_Audio.ipynb: The code snipets used to run the SVM and RF models on the audio modality.
 * SVM&RF_CombinedModalities.ipynb:The code snipets used to run SVM and RF models on all 3 modalities with late fusion.
-* Rf_prune.ipynb	Created using Colaboratory	5 hours ago
+* Rf_prune.ipynb: Implementation of pruneing on RFs. 
 * CNN_Audio.ipynb: The code snipet used to run CNN on the audio features. 
 * CNN_Text.ipynb: The code snipet used to run CNN on the text features. 
 * CNN_Video.ipynb: The code snipet used to run CNN on the video features. 
