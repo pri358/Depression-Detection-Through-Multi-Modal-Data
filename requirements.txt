@@ -2,16 +2,10 @@
 nltk
 numpy
 pandas
-from gensim.models.keyedvectors import KeyedVectors
+gensim
 gc
 math
-from keras.models import Sequential
-from keras.layers import Conv2D
-from keras.layers import MaxPooling2D
-from keras.layers import Flatten
-from keras.layers import Dense
-from smart_open import open
-from nltk.corpus import stopwords
-from sklearn.metrics import classification_report
-from keras.layers import Dropout
-from matplotlib import pyplot as plt
+keras
+smart_open
+sklearn
+matplotlib
