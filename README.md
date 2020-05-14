@@ -7,7 +7,10 @@ the patient. The output is divided into different levels to take into considerat
 ject. We’ve built a deep learning model that fuses these 3 modalities, assigning them appropriate weights, and thus
 gives an output.
 
-Files:
+# Using the files:
+Please make a copy of the drive folder (https://drive.google.com/drive/u/1/folders/1VhRO2phIYBkFjvp2EZdnUE1vTx4ILSal, the folder has been shared with the TAs) to your main my-drive folder. The files on this github repository should work if the dataset folder is copied in the correct location. 
+
+# Files:
 * Dataset.ipynb: : The code snipets used to obtain from the DAIC server, unzip them and arrange them in a manner we saw fit for easy implementation.
 * SVM&RF_Text.ipynb: The code snipets used to run the SVM and RF models on the text modality.
 * SVM&RF_Video.ipynb: The code snipets used to run the SVM and RF models on the video modality.
